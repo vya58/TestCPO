@@ -3,7 +3,7 @@
 @section('content')
 
 <div>
-    <p>Все события</p>
+    <p>Мои события</p>
 </div>
 
 @foreach($myEvents as $event)
